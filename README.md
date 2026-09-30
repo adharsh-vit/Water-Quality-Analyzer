@@ -448,3 +448,6 @@ Adding more statistical analysis
 
 This project was created as part of the VITyarthi – Build Your Own Project evaluation to demonstrate the application of Python programming concepts to a practical problem.
 
+Screenshot
+
+<img width="1301" height="926" alt="image" src="https://github.com/user-attachments/assets/e1574b2c-fdce-4b2f-96d1-6cc87971519a" />
